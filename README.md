@@ -1,2 +1,1 @@
-# health-checks
-check health of my computer
+I am editing the README file. Adding some more deatils about the project description
